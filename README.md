@@ -10,8 +10,6 @@ being able to display the tape and current state.
 4. Compact Turing machine
 5. Execute Turing machine
 6. Output current information
-Write q or Q to quit
-Enter Option
-
+7. Write q or Q to quit
 
 
